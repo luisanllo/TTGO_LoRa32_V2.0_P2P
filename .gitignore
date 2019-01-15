@@ -1,2 +1,4 @@
 .pioenvs
 .piolibdeps
+src/.DS_Store
+.DS_Store
